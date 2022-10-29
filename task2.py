@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 def task2():
     '''
     Решение к задаче 2
